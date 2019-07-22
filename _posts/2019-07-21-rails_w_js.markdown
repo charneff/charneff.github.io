@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Rails w JS"
+date:       2019-07-22 01:04:15 +0000
+permalink:  rails_w_js
+---
+
+
+This project has been kicking my butt. It seems straight forward enough, but JS is definitely still a bit foreign to me. I'm writing this as I'm trying to finish up with my curriculum telling me it's overdue.... Yes, yes, I know it is. Thank you for the alert. With some features still to add, I'm looking forward to sorting out the details of this one and posting again about what I have learned this coming week. 
