@@ -1,11 +1,9 @@
 ---
 layout: post
 title:      "JavaScript & Scope"
-date:       2019-09-25 23:52:17 +0000
+date:       2019-09-25 19:52:18 -0400
 permalink:  javascript_and_scope
 ---
-
-***NOTE: not best practice to use var, try to always use let and const, unless you truly need a variable with global scope
 
 Below is an example JS function named scopey... Based on the function below, what do you think each statement log to the console will be when the function is called? Our conditional should always evaluate to true. Don't cheat, just take a guess... 
 
